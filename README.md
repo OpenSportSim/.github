@@ -1,2 +1,4 @@
 # OpenSportSim
-Sport simulation software by the people, for the people.
+
+This repository contains the GitHub profile README.md, website and other generic documents.
+
